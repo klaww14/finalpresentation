@@ -98,6 +98,9 @@ git push origin feature/your- feature -name
 Screenshots
 
   Signin Page
+
   Sign Up Page
+  
   Homepage
+  
   Log Out Page
