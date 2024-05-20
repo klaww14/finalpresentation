@@ -98,13 +98,17 @@ git push origin feature/your- feature -name
 Screenshots
 
   Signin Page
+  
   ![albbank2](https://github.com/klaww14/finalpresentation/assets/162194459/37ac4aed-b7bf-4a61-8c20-e111349916a9)
   
   Sign Up Page
+  
   ![albbank3](https://github.com/klaww14/finalpresentation/assets/162194459/67b67e3f-6760-41f2-93a8-ae5d727d566f)
   
   Homepage
+  
   ![albbank4](https://github.com/klaww14/finalpresentation/assets/162194459/5fd27366-fa57-4a04-8cac-a613a7470277)
   
   Log Out Page
+  
   ![albbank5](https://github.com/klaww14/finalpresentation/assets/162194459/f9b3ce61-5882-454e-9b1a-6c0925e2811a)
