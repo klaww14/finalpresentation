@@ -70,8 +70,7 @@ Getting Started
 
 To run the mobile banking application locally, follow these steps:
 
-  1. Clone the repository:
-git clone https://github.com/your-username/Mobile-Bank-Application.git
+  1. Clone the repository
 
   2. Open the project in Android Studio.
 
