@@ -100,6 +100,10 @@ Screenshots
   Signin Page
   
   ![albbank2](https://github.com/klaww14/finalpresentation/assets/162194459/37ac4aed-b7bf-4a61-8c20-e111349916a9)
+
+  Sign In Page Error
+
+  ![al4](https://github.com/klaww14/finalpresentation/assets/162194459/2d5816f1-1d52-4bab-9162-9a6eda42fbc1)
   
   Sign Up Page
   
